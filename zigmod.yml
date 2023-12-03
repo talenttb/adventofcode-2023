@@ -1,0 +1,6 @@
+id: cj9gpzv9ia9zvsniq9vbo6n5k1b3skdx7s4yrj4imlc90cuj
+name: adventofcode-2023
+license: NONE
+description: NONE
+root_dependencies:
+  - src: git https://github.com/Hejsil/zig-clap
